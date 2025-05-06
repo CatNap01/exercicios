@@ -1,4 +1,4 @@
-def somar_pares(lista):
+def somar(lista):
     total = 0
     for i in lista: 
         if i % 2 == 0:
@@ -7,4 +7,4 @@ def somar_pares(lista):
 
 numeros = [1, 2, 3, 4, 5, 6]
            
-print(somar_pares(numeros))
+print(somar(numeros))
