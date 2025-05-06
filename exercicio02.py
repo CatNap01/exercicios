@@ -1,7 +1,7 @@
 def somar(lista):
     total = 0
     for i in lista: 
-        if i % 2 == 0:
+        
             total += i
     return total
 
