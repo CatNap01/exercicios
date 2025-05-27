@@ -1,0 +1,21 @@
+[ {
+    "Marca do veículo": "Toyota",
+    "Modelo do veículo": "Corolla",
+    "Ano do veículo": "2020",
+    "Cord do veículo": "Prata"
+},
+
+    {
+    "Marca do veículo": "Toyota",
+    "Modelo do veículo": "HILUX",
+    "Ano do veículo": "2023",
+    "Cord do veículo": "Branco"
+},
+
+ {
+    "Marca do veículo": "Toyota",
+    "Modelo do veículo": "HILUX SW4",
+    "Ano do veículo": "2022",
+    "Cord do veículo": "Prata"
+}
+]
